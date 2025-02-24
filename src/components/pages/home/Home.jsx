@@ -21,8 +21,7 @@ const Home = () => {
               Innovate Solution For Business <span>Success</span>
             </h2>
             <p>
-              Monotonectally implement integrated commerce and distributed is
-              conveniently unleash B2B customer service via long
+            We create stunning websites, redesign platforms, and craft unique branding to elevate your business.
             </p>
             <hr className="Separation" />
             <div className="listButoon">

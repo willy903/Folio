@@ -14,7 +14,7 @@
     gap: 20px;
 }
 .item1{
-    width: 45%;
+    width: 50%;
     align-self: self-end;
     margin-bottom: 50px;
 }
@@ -106,7 +106,7 @@ gap: 10px;
 }
 
 .item2{
-    width: 65%;
+    width: 50%;
     display: flex;
     align-items: center;
 }
