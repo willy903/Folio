@@ -4,6 +4,11 @@ import hero1 from "./../../assets/hero-image.png";
 import call from "./../../assets/call.png";
 import plus from "./../../assets/plus.png";
 import Featur from "../../featur/Featur";
+import Achievement from "../../acievement/Achievement";
+import ProjectSlide from "../../ProjectSlide/ProjectSlide";
+import ConsultingSection from "../../consulting/ConsultingSection";
+import BlogSummerize from "../../blogSummerize/BlogSummerize";
+import Footer from "../../footer/Footer";
 
 const Home = () => {
   return (
@@ -50,6 +55,11 @@ const Home = () => {
         </div>
       </div>
       <Featur/>
+      <Achievement/>
+      <ProjectSlide/>
+      <ConsultingSection/>
+      <BlogSummerize/>
+      <Footer/>
     </div>
   );
 };
